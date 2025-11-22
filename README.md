@@ -47,7 +47,7 @@ npm run android
 1. Simply run `npx mam setup` in Terminal to get all the latest updates from the **Mobile App Manager Template** template.
 
 ## 🌎 Publishing your app
-1. Run `npm run dist` in Terminal to build your app for production on every platform.
+1. Run `npm run build` in Terminal to build your app for production on every platform.
 2. Upload the respective build files to the Apple App Store and Google Play Store.
 
 ## ⛳️ Flags
