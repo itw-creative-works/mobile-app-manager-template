@@ -1,0 +1,19 @@
+{
+  "name": "mobile-app-manager-template",
+  "version": "1.0.0",
+  "description": "Mobile app manager template that builds for iOS and Android.",
+  "scripts": {
+    "start": "npx mam setup && npm start"
+  },
+  "author": {
+    "name": "ITW Creative Works",
+    "email": "hello@itwcreativeworks.com",
+    "url": "https://itwcreativeworks.com"
+  },
+  "license": "ISC",
+
+  "devDependencies": {
+    "mobile-app-manager": "latest"
+  },
+  "dependencies": {}
+}
