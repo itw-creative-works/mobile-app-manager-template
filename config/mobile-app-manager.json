@@ -1,6 +1,7 @@
 {
   app: {
-    name: 'My App'
+    name: 'My App',
+    bundleIdentifier: 'com.itwcreativeworks.myapp'
   },
   brand: {
     id: 'my-app',
