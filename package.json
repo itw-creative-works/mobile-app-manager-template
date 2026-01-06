@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Mobile app manager template that builds for iOS and Android.",
   "scripts": {
-    "start": "npx mam setup && npm start"
+    "start": "npm install && npx mam setup && npm start"
   },
   "author": {
     "name": "ITW Creative Works",

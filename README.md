@@ -33,8 +33,7 @@
 2. Clone the repo to your local machine.
 3. Run these command to get everything setup and sync'd!
 ```bash
-npm install
-npx mam setup
+npm start
 
 # Then, to start the development environment:
 npm run ios
